@@ -8,14 +8,16 @@ msgstr ""
 "Project-Id-Version: valent\n"
 "Report-Msgid-Bugs-To: https://github.com/andyholmes/valent/issues\n"
 "POT-Creation-Date: 2025-11-07 13:04-0800\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2026-03-25 17:09+0000\n"
+"Last-Translator: phlostically <phlostically@mailinator.com>\n"
+"Language-Team: Esperanto <https://hosted.weblate.org/projects/valent/"
+"application/eo/>\n"
 "Language: eo\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.17-dev\n"
 
 #: data/ca.andyholmes.Valent.desktop.in.in:2
 #: data/metainfo/ca.andyholmes.Valent.metainfo.xml.in.in:11
@@ -32,7 +34,7 @@ msgstr ""
 #: data/ca.andyholmes.Valent.gschema.xml:10
 #: src/plugins/gnome/valent-preferences-command-editor.ui:41
 msgid "Name"
-msgstr ""
+msgstr "Nomo"
 
 #: data/ca.andyholmes.Valent.gschema.xml:11
 msgid "The display name for the local device."
@@ -64,7 +66,7 @@ msgstr ""
 
 #: data/metainfo/ca.andyholmes.Valent.metainfo.xml.in.in:19
 msgid "Features:"
-msgstr ""
+msgstr "Funkcioj:"
 
 #: data/metainfo/ca.andyholmes.Valent.metainfo.xml.in.in:23
 msgid "Sync contacts, notifications and clipboard content"
@@ -92,7 +94,7 @@ msgstr ""
 
 #: data/metainfo/ca.andyholmes.Valent.metainfo.xml.in.in:29
 msgid "More…"
-msgstr ""
+msgstr "Pli…"
 
 #: data/metainfo/ca.andyholmes.Valent.metainfo.xml.in.in:31
 msgid ""
@@ -208,19 +210,19 @@ msgstr ""
 #: src/libvalent/device/valent-device.c:744
 #: src/plugins/gnome/valent-device-page.ui:118
 msgid "Reject"
-msgstr ""
+msgstr "Malakcepti"
 
 #: src/libvalent/device/valent-device.c:749
 #: src/plugins/gnome/valent-device-page.ui:132
 msgid "Accept"
-msgstr ""
+msgstr "Akcepti"
 
 #: src/plugins/battery/battery.plugin.desktop.in:6
 #: src/plugins/gnome/valent-device-page.ui:217
 #: src/plugins/gnome/valent-device-row.ui:124
 #: src/plugins/gnome/valent-preferences-status-page.ui:15
 msgid "Battery"
-msgstr ""
+msgstr "Baterio"
 
 #: src/plugins/battery/battery.plugin.desktop.in:7
 msgid "Monitor battery level and charging state"
@@ -255,7 +257,7 @@ msgstr ""
 
 #: src/plugins/bluez/bluez.plugin.desktop.in:6
 msgid "Bluez"
-msgstr ""
+msgstr "Bluez"
 
 #: src/plugins/bluez/bluez.plugin.desktop.in:7
 msgid "Connect devices over Bluetooth"
@@ -265,7 +267,7 @@ msgstr ""
 #: src/plugins/gnome/valent-preferences-dialog.c:610
 #: src/plugins/gnome/valent-preferences-sync-page.ui:15
 msgid "Clipboard"
-msgstr ""
+msgstr "Tondujo"
 
 #: src/plugins/clipboard/clipboard.plugin.desktop.in:7
 msgid "Sync the clipboard between devices"
@@ -273,7 +275,7 @@ msgstr ""
 
 #: src/plugins/connectivity_report/connectivity_report.plugin.desktop.in:6
 msgid "Connectivity"
-msgstr ""
+msgstr "Konektiteco"
 
 #: src/plugins/connectivity_report/connectivity_report.plugin.desktop.in:7
 msgid "Monitor mobile connectivity status"
@@ -324,7 +326,7 @@ msgstr ""
 #: src/plugins/gnome/valent-preferences-dialog.c:617
 #: src/plugins/gnome/valent-preferences-sync-page.ui:36
 msgid "Contacts"
-msgstr ""
+msgstr "Kontaktoj"
 
 #: src/plugins/contacts/contacts.plugin.desktop.in:7
 msgid "Sync contacts between devices"
@@ -340,7 +342,7 @@ msgstr ""
 
 #: src/plugins/fdo/fdo.plugin.desktop.in:6
 msgid "freedesktop.org"
-msgstr ""
+msgstr "freedesktop.org"
 
 #: src/plugins/fdo/fdo.plugin.desktop.in:7
 msgid "Freedesktop.org Based Modules"
@@ -348,7 +350,7 @@ msgstr ""
 
 #: src/plugins/findmyphone/findmyphone.plugin.desktop.in:6
 msgid "Find My Phone"
-msgstr ""
+msgstr "Trovi Mian Telefonon"
 
 #: src/plugins/findmyphone/findmyphone.plugin.desktop.in:7
 msgid "Find a device by making it ring"
@@ -375,7 +377,7 @@ msgstr ""
 #: src/plugins/gnome/valent-contact-page.c:158
 #, c-format
 msgid "Send to %s"
-msgstr ""
+msgstr "Sendi al %s"
 
 #: src/plugins/gnome/valent-contact-page.c:237
 #: src/plugins/gnome/valent-messages-window.c:136
@@ -388,24 +390,24 @@ msgstr[1] ""
 #: src/plugins/gnome/valent-contact-page.c:328
 #: src/plugins/gnome/valent-messages-window.c:435
 msgid "Work"
-msgstr ""
+msgstr "Laboro"
 
 #: src/plugins/gnome/valent-contact-page.c:330
 #: src/plugins/gnome/valent-messages-window.c:437
 msgid "Mobile"
-msgstr ""
+msgstr "Poŝtelefono"
 
 #: src/plugins/gnome/valent-contact-page.c:332
 #: src/plugins/gnome/valent-messages-window.c:439
 #: src/plugins/sftp/valent-sftp-plugin.c:660
 msgid "Home"
-msgstr ""
+msgstr "Hejmo"
 
 #: src/plugins/gnome/valent-contact-page.c:334
 #: src/plugins/gnome/valent-messages-window.c:441
 #: src/plugins/gnome/valent-preferences-other-page.ui:9
 msgid "Other"
-msgstr ""
+msgstr "Alia"
 
 #: src/plugins/gnome/valent-contact-page.ui:18
 msgid "Type a phone number or name"
@@ -423,12 +425,12 @@ msgstr ""
 #: src/plugins/gnome/valent-contact-page.ui:96
 #: src/plugins/gnome/valent-messages-window.ui:314
 msgid "Phone Numbers"
-msgstr ""
+msgstr "Telefonnumeroj"
 
 #: src/plugins/gnome/valent-conversation-page.c:407
 #: src/plugins/gnome/valent-messages-window.c:544
 msgid "Unknown"
-msgstr ""
+msgstr "Nekonata"
 
 #. TRANSLATORS: This is announced to AT devices (i.e. screen readers)
 #. * when a new message is received.
@@ -460,12 +462,12 @@ msgstr ""
 #: src/plugins/gnome/valent-presenter-remote.c:90
 #: src/plugins/gnome/valent-presenter-remote.ui:100
 msgid "Open"
-msgstr ""
+msgstr "Malfermi"
 
 #: src/plugins/gnome/valent-conversation-page.c:1001
 #: src/plugins/share/valent-share-plugin.c:1137
 msgid "Save"
-msgstr ""
+msgstr "Konservi"
 
 #: src/plugins/gnome/valent-conversation-page.ui:8
 msgid "Conversation"
@@ -477,7 +479,7 @@ msgstr ""
 
 #: src/plugins/gnome/valent-conversation-page.ui:88
 msgid "Type a message"
-msgstr ""
+msgstr "Tajpu mesaĝon"
 
 #: src/plugins/gnome/valent-conversation-page.ui:97
 msgid "Send Message"
@@ -492,7 +494,7 @@ msgstr ""
 #: src/plugins/gnome/valent-conversation-page.ui:135
 #: src/plugins/gnome/valent-conversation-page.ui:143
 msgid "Details"
-msgstr ""
+msgstr "Detaloj"
 
 #: src/plugins/gnome/valent-conversation-page.ui:156
 #: src/plugins/gnome/valent-conversation-page.ui:226
@@ -625,7 +627,7 @@ msgstr ""
 #: src/plugins/gnome/valent-device-page.ui:291
 #: src/plugins/gnome/valent-window.ui:142
 msgid "Preferences"
-msgstr ""
+msgstr "Preferoj"
 
 #: src/plugins/gnome/valent-device-page.ui:297
 msgid "Unpair"
@@ -646,7 +648,7 @@ msgstr ""
 
 #: src/plugins/gnome/valent-device-row.c:246
 msgid "Connected"
-msgstr ""
+msgstr "Konektita"
 
 #: src/plugins/gnome/valent-input-remote.ui:8
 #: src/plugins/gnome/valent-window.ui:123
@@ -699,7 +701,7 @@ msgstr ""
 
 #: src/plugins/gnome/valent-input-remote.ui:347
 msgid "Send"
-msgstr ""
+msgstr "Sendi"
 
 #: src/plugins/gnome/valent-media-remote.c:234
 msgid "Pause"
@@ -714,7 +716,7 @@ msgstr ""
 #: src/plugins/gnome/valent-preferences-status-page.ui:70
 #: src/plugins/gnome/valent-preferences-status-page.ui:91
 msgid "Volume"
-msgstr ""
+msgstr "Laŭto"
 
 #: src/plugins/gnome/valent-media-remote.ui:222
 #: src/plugins/gnome/valent-menu-list.c:668
@@ -733,7 +735,7 @@ msgstr ""
 
 #: src/plugins/gnome/valent-media-remote.ui:285
 msgid "_None"
-msgstr ""
+msgstr "_Nenio"
 
 #: src/plugins/gnome/valent-media-remote.ui:290
 msgid "Repeat _One"
@@ -771,7 +773,7 @@ msgstr ""
 #: src/plugins/gnome/valent-message-row.c:56
 #, c-format
 msgid "You: %s"
-msgstr ""
+msgstr "Vi: %s"
 
 #: src/plugins/gnome/valent-messages-window.c:232
 #: src/plugins/gnome/valent-messages-window.ui:154
@@ -786,7 +788,7 @@ msgstr ""
 #: src/plugins/gnome/valent-messages-window.ui:51
 #: src/plugins/gnome/valent-window.ui:131
 msgid "Messages"
-msgstr ""
+msgstr "Mesaĝoj"
 
 #: src/plugins/gnome/valent-messages-window.ui:61
 msgid "New Conversation"
@@ -812,7 +814,7 @@ msgstr ""
 #: src/plugins/gnome/valent-messages-window.ui:223
 #: src/plugins/gnome/valent-preferences-sync-page.ui:204
 msgid "Search"
-msgstr ""
+msgstr "Serĉi"
 
 #: src/plugins/gnome/valent-messages-window.ui:231
 msgid "Search messages…"
@@ -828,36 +830,36 @@ msgstr ""
 
 #: src/plugins/gnome/valent-messages-window.ui:346
 msgid "Help"
-msgstr ""
+msgstr "Helpo"
 
 #: src/plugins/gnome/valent-messages-window.ui:353
 msgid "Close"
-msgstr ""
+msgstr "Fermi"
 
 #: src/plugins/gnome/valent-plugin-row.ui:79
 msgid "Authors"
-msgstr ""
+msgstr "Aŭtoroj"
 
 #: src/plugins/gnome/valent-plugin-row.ui:112
 msgid "Version"
-msgstr ""
+msgstr "Versio"
 
 #: src/plugins/gnome/valent-plugin-row.ui:143
 msgid "Website"
-msgstr ""
+msgstr "Retejo"
 
 #: src/plugins/gnome/valent-preferences-command-editor.ui:8
 #: src/plugins/gnome/valent-preferences-other-page.c:84
 msgid "Edit Command"
-msgstr ""
+msgstr "Modifi komandon"
 
 #: src/plugins/gnome/valent-preferences-command-editor.ui:19
 msgid "_Cancel"
-msgstr ""
+msgstr "_Nuligi"
 
 #: src/plugins/gnome/valent-preferences-command-editor.ui:26
 msgid "_Save"
-msgstr ""
+msgstr "Kon_servi"
 
 #: src/plugins/gnome/valent-preferences-command-editor.ui:54
 msgid "Command Line"
@@ -866,7 +868,7 @@ msgstr ""
 #: src/plugins/gnome/valent-preferences-command-editor.ui:72
 #: src/plugins/gnome/valent-preferences-dialog.c:366
 msgid "Remove"
-msgstr ""
+msgstr "Forigi"
 
 #. TRANSLATORS: %s is a list of forbidden characters
 #: src/plugins/gnome/valent-preferences-dialog.c:495
@@ -876,7 +878,7 @@ msgstr ""
 
 #: src/plugins/gnome/valent-preferences-dialog.c:596
 msgid "Application"
-msgstr ""
+msgstr "Programo"
 
 #: src/plugins/gnome/valent-preferences-dialog.c:603
 msgid "Device Connections"
@@ -898,7 +900,7 @@ msgstr ""
 #: src/plugins/gnome/valent-preferences-sync-page.ui:58
 #: src/plugins/notification/notification.plugin.desktop.in:6
 msgid "Notifications"
-msgstr ""
+msgstr "Sciigoj"
 
 #: src/plugins/gnome/valent-preferences-dialog.c:652
 msgid "Session Manager"
@@ -906,7 +908,7 @@ msgstr ""
 
 #: src/plugins/gnome/valent-preferences-dialog.ui:13
 msgid "General"
-msgstr ""
+msgstr "Ĝenerala"
 
 #: src/plugins/gnome/valent-preferences-dialog.ui:20
 msgid "Device Name"
@@ -931,11 +933,11 @@ msgstr ""
 #: src/plugins/share/valent-share-plugin.c:369
 #: src/plugins/share/valent-share-plugin.c:516
 msgid "Cancel"
-msgstr ""
+msgstr "Nuligi"
 
 #: src/plugins/gnome/valent-preferences-dialog.ui:159
 msgid "Add"
-msgstr ""
+msgstr "Aldoni"
 
 #: src/plugins/gnome/valent-preferences-dialog.ui:179
 msgid "Hostname or IP address"
@@ -962,7 +964,7 @@ msgstr ""
 #: src/plugins/gnome/valent-preferences-other-page.ui:82
 #: src/plugins/runcommand/runcommand.plugin.desktop.in:6
 msgid "Commands"
-msgstr ""
+msgstr "Komandoj"
 
 #: src/plugins/gnome/valent-preferences-other-page.ui:54
 msgid "Define commands that can be executed by remote devices"
@@ -978,7 +980,7 @@ msgstr ""
 
 #: src/plugins/gnome/valent-preferences-status-page.ui:9
 msgid "Status"
-msgstr ""
+msgstr "Stato"
 
 #: src/plugins/gnome/valent-preferences-status-page.ui:18
 msgid "Full Battery Notification"
@@ -1070,7 +1072,7 @@ msgstr ""
 
 #: src/plugins/gnome/valent-preferences-sync-page.ui:39
 msgid "Remote Contacts"
-msgstr ""
+msgstr "Foraj kontaktoj"
 
 #: src/plugins/gnome/valent-preferences-sync-page.ui:40
 msgid "Import contacts from the remote device"
@@ -1078,7 +1080,7 @@ msgstr ""
 
 #: src/plugins/gnome/valent-preferences-sync-page.ui:46
 msgid "Local Contacts"
-msgstr ""
+msgstr "Lokaj kontaktoj"
 
 #: src/plugins/gnome/valent-preferences-sync-page.ui:47
 msgid "Share contacts with the remote device"
@@ -1107,7 +1109,7 @@ msgstr ""
 #: src/plugins/gnome/valent-preferences-sync-page.ui:98
 #: src/plugins/sftp/sftp.plugin.desktop.in:6
 msgid "Files"
-msgstr ""
+msgstr "Dosieroj"
 
 #: src/plugins/gnome/valent-preferences-sync-page.ui:101
 msgid "Automatically Mount"
@@ -1119,7 +1121,7 @@ msgstr ""
 
 #: src/plugins/gnome/valent-preferences-sync-page.ui:108
 msgid "Local Files"
-msgstr ""
+msgstr "Lokaj dosieroj"
 
 #: src/plugins/gnome/valent-preferences-sync-page.ui:109
 msgid "Share local files and directories"
@@ -1127,7 +1129,7 @@ msgstr ""
 
 #: src/plugins/gnome/valent-preferences-sync-page.ui:114
 msgid "Port"
-msgstr ""
+msgstr "Pordo"
 
 #: src/plugins/gnome/valent-preferences-sync-page.ui:178
 msgid "Filter applications"
@@ -1151,7 +1153,7 @@ msgstr ""
 
 #: src/plugins/gnome/valent-presenter-remote.c:105
 msgid "All Files"
-msgstr ""
+msgstr "Ĉiuj dosieroj"
 
 #: src/plugins/gnome/valent-presenter-remote.ui:8
 msgid "Presentation Remote"
@@ -1172,12 +1174,12 @@ msgstr ""
 #: src/plugins/gnome/valent-share-dialog.c:107
 #, c-format
 msgid "Size: %s"
-msgstr ""
+msgstr "Grando: %s"
 
 #: src/plugins/gnome/valent-share-dialog.c:121
 #, c-format
 msgid "Total size: %s"
-msgstr ""
+msgstr "Totala grando: %s"
 
 #: src/plugins/gnome/valent-share-dialog.c:252
 #, c-format
@@ -1207,17 +1209,17 @@ msgstr ""
 
 #: src/plugins/gnome/valent-share-dialog.ui:50
 msgid "Pick Files"
-msgstr ""
+msgstr "Elekti dosierojn"
 
 #: src/plugins/gnome/valent-share-dialog.ui:75
 msgid "Enter URL"
-msgstr ""
+msgstr "Tajpi retadreson"
 
 #: src/plugins/gnome/valent-share-dialog.ui:161
 #: src/plugins/gnome/valent-share-dialog.ui:178
 #: src/plugins/gnome/valent-window.ui:86 src/plugins/gnome/valent-window.ui:101
 msgid "Devices"
-msgstr ""
+msgstr "Aparatoj"
 
 #: src/plugins/gnome/valent-share-dialog.ui:165
 msgid "Share with multiple devices"
@@ -1419,7 +1421,7 @@ msgstr ""
 
 #: src/plugins/pipewire/pipewire.plugin.desktop.in:6
 msgid "PipeWire"
-msgstr ""
+msgstr "PipeWire"
 
 #: src/plugins/pipewire/pipewire.plugin.desktop.in:7
 msgid "Integration with PipeWire"
@@ -1435,7 +1437,7 @@ msgstr ""
 
 #: src/plugins/pulseaudio/pulseaudio.plugin.desktop.in:6
 msgid "PulseAudio"
-msgstr ""
+msgstr "PulseAudio"
 
 #: src/plugins/pulseaudio/pulseaudio.plugin.desktop.in:7
 msgid "Integration with PulseAudio"
@@ -1447,7 +1449,7 @@ msgstr ""
 
 #: src/plugins/runcommand/valent-runcommand-plugin.c:317
 msgid "Run Command"
-msgstr ""
+msgstr "Ruli komandon"
 
 #: src/plugins/sftp/sftp.plugin.desktop.in:7
 msgid "Share files and directories with SFTP"
@@ -1476,15 +1478,15 @@ msgstr ""
 #: src/plugins/share/valent-share-plugin.c:102
 #: src/plugins/share/valent-share-plugin.c:482
 msgid "Transferring Files"
-msgstr ""
+msgstr "Transsendante dosierojn"
 
 #: src/plugins/share/valent-share-plugin.c:103
 #: src/plugins/share/valent-share-plugin.c:121
 #, c-format
 msgid "Receiving one file from %1$s"
 msgid_plural "Receiving %2$d files from %1$s"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Ricevante unu dosieron el %1$s"
+msgstr[1] "Ricevante %2$d dosierojn el %1$s"
 
 #: src/plugins/share/valent-share-plugin.c:111
 #: src/plugins/share/valent-share-plugin.c:350
@@ -1496,25 +1498,25 @@ msgstr ""
 #, c-format
 msgid "Received one file from %1$s"
 msgid_plural "Received %2$d files from %1$s"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Ricevis unu dosieron el %1$s"
+msgstr[1] "Ricevis %2$d dosierojn el %1$s"
 
 #: src/plugins/share/valent-share-plugin.c:120
 #: src/plugins/share/valent-share-plugin.c:253
 #: src/plugins/share/valent-share-plugin.c:356
 #: src/plugins/share/valent-share-plugin.c:500
 msgid "Transfer Failed"
-msgstr ""
+msgstr "Transsendo malsukcesis"
 
 #: src/plugins/share/valent-share-plugin.c:154
 #: src/plugins/share/valent-share-plugin.c:761
 msgid "Open Folder"
-msgstr ""
+msgstr "Malfermi dosierujon"
 
 #: src/plugins/share/valent-share-plugin.c:165
 #: src/plugins/share/valent-share-plugin.c:766
 msgid "Open File"
-msgstr ""
+msgstr "Malfermi dosieron"
 
 #: src/plugins/share/valent-share-plugin.c:243
 #: src/plugins/share/valent-share-plugin.c:344
@@ -1574,7 +1576,7 @@ msgstr ""
 
 #: src/plugins/share/valent-share-plugin.c:1142
 msgid "Copy"
-msgstr ""
+msgstr "Kopii"
 
 #: src/plugins/sms/sms.plugin.desktop.in:6
 msgid "SMS"
@@ -1600,7 +1602,7 @@ msgstr ""
 #: src/plugins/telephony/valent-telephony-plugin.c:367
 msgctxt "contact identity"
 msgid "Unknown"
-msgstr ""
+msgstr "Nekonata"
 
 #. TRANSLATORS: The phone is ringing
 #: src/plugins/telephony/valent-telephony-plugin.c:394
